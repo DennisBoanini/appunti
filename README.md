@@ -1,0 +1,1 @@
+# [Appunti di programmazione funzionale](accademiadev-functional-javascript/toc.md)
