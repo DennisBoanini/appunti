@@ -1,1 +1,0 @@
-# Manipolazione di array
